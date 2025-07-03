@@ -2,6 +2,8 @@
 ## https://www.sqlstyle.guide/ru/ - здесь можно отформатировать запрос в наиболее удобном виде
 ##  https://codebeautify.org/sqlformatter - здесь реководство по стилю SQL
 
+# SQLite
+
 # Основы SQL
 
 ## Какие рассматриваются диалекты SQL: 
