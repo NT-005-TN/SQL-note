@@ -439,7 +439,7 @@ SELECT name FROM employees WHERE bonus IS NULL;
 
 Этот оператор также удаляет дубликаты и работает на уровне значений, как UNION.
 
-# PostgrseSQL
+# PostgreSQL
 Далее будут написаны отличия запроса в PostgrseSQL от SQLite, все что не упомянуто ниже остается таким же как и в SQLite
 
 файлы:
